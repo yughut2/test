@@ -76,8 +76,9 @@ ItemDisplay[CL1 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // Druid pe
 ItemDisplay[CL4 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // Necromancer shields
 
 // ===>>> ADD YOUR CUSTOM RULES HERE! <<<===
-ItemDisplay[EXC NMAG EQ2]: %NAME%
-ItemDisplay[ELT NMAG EQ2]: %NAME%
+ItemDisplay[EXC NMAG EQ2]: %PURPLE%%NAME%
+ItemDisplay[ELT NMAG EQ2]: %PURPLE%%NAME%
+ItemDisplay[uit]: %PURPLE%%NAME%
 
 // NORMAL ITEMS
 ItemDisplay[NORM CLVL>4  NMAG !RW INF]: // hide inferior items from char level 5
