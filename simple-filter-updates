@@ -40,6 +40,7 @@ ItemDisplay[hp5]: %RED%[%WHITE%Health%RED%] // Super Healing potion
 ItemDisplay[mp4]: %BLUE%[%GRAY%Mana%BLUE%] // Greater Mana potion
 ItemDisplay[mp5]: %BLUE%[%WHITE%Mana%BLUE%] // Super Mana potion
 
+ItemDisplay[rvs]: // Rejuvenation potion
 ItemDisplay[rvl]: %PURPLE%[%WHITE%Rejuvenation%PURPLE%] // Full Rejuvenation potion
 
 // hide gems by grade based on character level
@@ -57,6 +58,17 @@ ItemDisplay[gpm OR opm OR opl OR ops OR gps OR gpl AND CLVL>9]:
 
 // Wirt's leg :)
 ItemDisplay[leg]: %NAME%
+
+// Make stamina, keys, scrolls and thawing/antidote potions barely visible
+// after first X levels
+ItemDisplay[key]: 
+
+ItemDisplay[tsc]: 
+ItemDisplay[isc]: 
+
+ItemDisplay[vps]: 
+ItemDisplay[wms]: 
+ItemDisplay[yps]: 
 
 // Show possible expensive, fewer-socketed white/magic items with vendor price
 ItemDisplay[(WP11 OR WP12 OR WP13) (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // staves, wands and scepters
