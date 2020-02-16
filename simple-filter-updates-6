@@ -81,6 +81,8 @@ ItemDisplay[ELT NMAG EQ2]: %PURPLE%%NAME%
 ItemDisplay[uit]: %PURPLE%%NAME%
 ItemDisplay[zvb]: %PURPLE%%NAME%
 ItemDisplay[uvc]: %PURPLE%%NAME%
+ItemDisplay[uvc]: %PURPLE%%NAME%
+ItemDisplay[9cr]: %PURPLE%%NAME%
 
 // NORMAL ITEMS
 ItemDisplay[NORM CLVL>4  NMAG !RW INF]: // hide inferior items from char level 5
