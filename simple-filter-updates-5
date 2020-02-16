@@ -79,6 +79,8 @@ ItemDisplay[CL4 (NMAG OR MAG) !RW SOCK<2]: %WHITE%%NAME% ($ %PRICE%) // Necroman
 ItemDisplay[EXC NMAG EQ2]: %PURPLE%%NAME%
 ItemDisplay[ELT NMAG EQ2]: %PURPLE%%NAME%
 ItemDisplay[uit]: %PURPLE%%NAME%
+ItemDisplay[zvb]: %PURPLE%%NAME%
+ItemDisplay[uvc]: %PURPLE%%NAME%
 
 // NORMAL ITEMS
 ItemDisplay[NORM CLVL>4  NMAG !RW INF]: // hide inferior items from char level 5
