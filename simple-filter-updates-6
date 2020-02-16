@@ -83,6 +83,11 @@ ItemDisplay[zvb]: %PURPLE%%NAME%
 ItemDisplay[uvc]: %PURPLE%%NAME%
 ItemDisplay[uvc]: %PURPLE%%NAME%
 ItemDisplay[9cr]: %PURPLE%%NAME%
+ItemDisplay[CL1 NMAG]: %PURPLE%%NAME%
+ItemDisplay[ci0]: %PURPLE%%NAME%
+ItemDisplay[ci1]: %PURPLE%%NAME%
+ItemDisplay[ci2]: %PURPLE%%NAME%
+ItemDisplay[ci3]: %PURPLE%%NAME%
 
 // NORMAL ITEMS
 ItemDisplay[NORM CLVL>4  NMAG !RW INF]: // hide inferior items from char level 5
